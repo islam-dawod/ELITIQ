@@ -168,8 +168,8 @@ body .main-contain {
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url(/ELITIQ/wp-content/themes/bcom/assets/webfonts/fa-solid-900.eot);
-  src: url(/ELITIQ/wp-content/themes/bcom/assets/webfonts/fa-solid-900.eot#iefix) format("embedded-opentype"), url(/ELITIQ/wp-content/themes/bcom/assets/webfonts/fa-solid-900.woff2) format("woff2"), url(/ELITIQ/wp-content/themes/bcom/assets/webfonts/fa-solid-900.woff) format("woff"), url(/ELITIQ/wp-content/themes/bcom/assets/webfonts/fa-solid-900.ttf) format("truetype"), url(/ELITIQ/wp-content/themes/bcom/assets/webfonts/fa-solid-900.svg#fontawesome) format("svg");
+  src: url(/wp-content/themes/bcom/assets/webfonts/fa-solid-900.eot);
+  src: url(/wp-content/themes/bcom/assets/webfonts/fa-solid-900.eot#iefix) format("embedded-opentype"), url(/wp-content/themes/bcom/assets/webfonts/fa-solid-900.woff2) format("woff2"), url(/wp-content/themes/bcom/assets/webfonts/fa-solid-900.woff) format("woff"), url(/wp-content/themes/bcom/assets/webfonts/fa-solid-900.ttf) format("truetype"), url(/wp-content/themes/bcom/assets/webfonts/fa-solid-900.svg#fontawesome) format("svg");
 }
 .fa, .fas {
   font-family: "Font Awesome 5 Free";
@@ -251,7 +251,7 @@ iframe {
 
 .stroke-heading {
   -webkit-background-clip: text;
-  background-image: url(/ELITIQ/wp-content/themes/bcom/assets/images/white-img.jpg);
+  background-image: url(/wp-content/themes/bcom/assets/images/white-img.jpg);
   -webkit-text-stroke: 3px transparent;
   background-size: cover;
 }
@@ -5651,7 +5651,7 @@ body.body-left-space .rs-footer .container-fluid {
 }
 
 .offwrap {
-  cursor: url(/ELITIQ/wp-content/themes/bcom/assets/images/x.svg), auto;
+  cursor: url(/wp-content/themes/bcom/assets/images/x.svg), auto;
   width: 100%;
   left: 100%;
   transition: all 0.8s ease-out 0s;
@@ -7990,7 +7990,7 @@ Heading  css
   white-space: nowrap;
   vertical-align: middle;
   -webkit-background-clip: text;
-  background-image: url(/ELITIQ/wp-content/themes/bcom/assets/images/black-img.jpg);
+  background-image: url(/wp-content/themes/bcom/assets/images/black-img.jpg);
   -webkit-text-stroke: 3px transparent;
   background-size: cover;
   color: #faf9ff;
@@ -11737,7 +11737,7 @@ Horizontal Timeline CSS
   bottom: 0px;
   width: 200px;
   z-index: 999;
-  background: url("/ELITIQ/wp-content/themes/bcom/assets/images/about-overlay-l.png") 0px top no-repeat;
+  background: url("/wp-content/themes/bcom/assets/images/about-overlay-l.png") 0px top no-repeat;
   background-size: cover;
   background-position-x: right;
   display: none;
@@ -11750,7 +11750,7 @@ Horizontal Timeline CSS
   bottom: 0px;
   width: 200px;
   z-index: 999;
-  background: url("/ELITIQ/wp-content/themes/bcom/assets/images/about-overlay-r.png") right top no-repeat;
+  background: url("/wp-content/themes/bcom/assets/images/about-overlay-r.png") right top no-repeat;
   background-size: cover;
   background-position-x: left;
   display: none;

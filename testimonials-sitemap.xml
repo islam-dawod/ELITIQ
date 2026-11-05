@@ -14,7 +14,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/ELITIQ/wp-content/uploads/2023/02/testimonial_img_5.png]]>			</image:loc>
+				<![CDATA[/wp-content/uploads/2023/02/testimonial_img_5.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -24,7 +24,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/ELITIQ/wp-content/uploads/2023/02/emily-test.jpg]]>			</image:loc>
+				<![CDATA[/wp-content/uploads/2023/02/emily-test.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -34,7 +34,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/ELITIQ/wp-content/uploads/2023/01/become-team-02.jpg]]>			</image:loc>
+				<![CDATA[/wp-content/uploads/2023/01/become-team-02.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -44,7 +44,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/ELITIQ/wp-content/uploads/2023/01/become-team-01.jpg]]>			</image:loc>
+				<![CDATA[/wp-content/uploads/2023/01/become-team-01.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -54,7 +54,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/ELITIQ/wp-content/uploads/2023/02/testimonial_img_4.png]]>			</image:loc>
+				<![CDATA[/wp-content/uploads/2023/02/testimonial_img_4.png]]>			</image:loc>
 		</image:image>
 	</url>
 </urlset>
