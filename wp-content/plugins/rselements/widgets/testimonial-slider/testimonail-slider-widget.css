@@ -1,0 +1,35 @@
+.rsaddon-unique-slider.arrow_style2 .rs-addon-slider .slick-arrow {
+  opacity: 1;
+  visibility: visible;
+  width: 50px;
+  height: 50px;
+  line-height: 50;
+}
+.rsaddon-unique-slider.arrow_style2 .rs-addon-slider .slick-arrow::before {
+  line-height: 50px;
+}
+.rsaddon-unique-slider .testimonial-items .inrs {
+  position: relative;
+}
+.rsaddon-unique-slider .testimonial-items .quote-img-icon {
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+.rsaddon-unique-slider.rs-testimonial.rs-testi_stylestyle5 .rs-addon-slider.sliders-restimon3 .testimonial-items .inrs .testimonial-contents {
+  flex-shrink: 0;
+}
+.rsaddon-unique-slider.rs-testimonial.rs-testi_stylestyle5 .rs-addon-slider.sliders-restimon3 .testimonial-items .inrs .testimonial-contents .image-wrap img {
+  height: unset;
+  width: unset;
+  max-width: unset;
+}
+
+.rs-testimonial.skew_enable .testimonial-item {
+  transform: skewY(2deg);
+}
+.rs-testimonial.skew_enable .testimonial-item > * {
+  transform: skewY(-2deg);
+}

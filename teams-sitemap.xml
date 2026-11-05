@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on November 5, 2026 at 6:58 am by All in One SEO v4.9.3 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/teams/nick-powel/]]></loc>
+		<lastmod><![CDATA[2023-01-11T10:08:29+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2023/01/team-one.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/team-one.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/shane-watson/]]></loc>
+		<lastmod><![CDATA[2023-01-11T10:06:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2023/01/team-two.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/team-two.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/paul-walker/]]></loc>
+		<lastmod><![CDATA[2023-01-11T10:03:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2023/01/team-three.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/team-three.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/steven-hammer/]]></loc>
+		<lastmod><![CDATA[2023-01-11T09:26:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2023/01/team-eight.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/team-eight.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/john-bradshaw/]]></loc>
+		<lastmod><![CDATA[2022-11-01T07:24:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/11/team-nine.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2022/11/team-nine.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/paul-roberts/]]></loc>
+		<lastmod><![CDATA[2022-11-01T07:22:40+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/11/team-ten.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2022/11/team-ten.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/alexandra-stan/]]></loc>
+		<lastmod><![CDATA[2022-11-01T07:21:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2023/01/team-four.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/team-four.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/claire-divas/]]></loc>
+		<lastmod><![CDATA[2022-10-21T09:24:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/11/team-seven.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2022/11/team-seven.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/kaitlyn-kristy/]]></loc>
+		<lastmod><![CDATA[2022-10-21T09:24:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/10/team-h-11-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2022/10/hp_team_07.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/carla-houston/]]></loc>
+		<lastmod><![CDATA[2022-10-21T09:23:49+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/10/team-h-11-2.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2022/10/hp_team_08.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/eleanor-pena/]]></loc>
+		<lastmod><![CDATA[2022-10-21T09:21:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/10/team-h-11-3.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2022/10/hp_team_01.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/floyd-miles/]]></loc>
+		<lastmod><![CDATA[2022-10-21T09:20:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/10/team-h-11-4.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2022/10/hp_team_02.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/courtney-henry/]]></loc>
+		<lastmod><![CDATA[2022-10-21T08:52:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/10/team-h-11-6.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2022/10/hp_team_03.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/max-courdey/]]></loc>
+		<lastmod><![CDATA[2022-10-21T08:51:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/10/team-h-11-5.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2022/10/hp_team_04.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/alex-martinez/]]></loc>
+		<lastmod><![CDATA[2022-10-21T08:51:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/10/team-h-11-7.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2022/10/hp_team_05.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/teams/nick-halen/]]></loc>
+		<lastmod><![CDATA[2022-10-13T05:50:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/10/team-h-11-8.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2022/10/team-6.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/02/dotted-layer.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://rstheme.com/products/wordpress/bcom/wp-content/uploads/2023/01/rect-shape-large.png]]>			</image:loc>
+		</image:image>
+	</url>
+</urlset>

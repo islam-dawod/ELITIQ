@@ -1,0 +1,83 @@
+.rs-portfolio.swiper .content-details {
+  display: block;
+  margin-bottom: 55px;
+  margin-top: 20px;
+}
+
+.rs-portfolio.swiper.swiper-horizontal > .swiper-scrollbar {
+  width: 100%;
+  background-color: #ffe8e5;
+  height: 5px;
+  left: 0;
+}
+.rs-portfolio.swiper.swiper-horizontal > .swiper-scrollbar .swiper-scrollbar-drag {
+  background-color: #F05C4E;
+}
+
+.rs-portfolio-slider.slider-style-9 .grid-item .portfolio-item {
+  position: relative;
+  overflow: hidden;
+}
+.rs-portfolio-slider.slider-style-9 .grid-item .portfolio-item::before {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  content: "";
+  top: 0;
+  left: 0;
+  transition: 0.4s;
+  background: linear-gradient(180deg, rgba(19, 0, 140, 0) 0%, #160198 100%);
+  z-index: 1;
+}
+.rs-portfolio-slider.slider-style-9 .grid-item .portfolio-item .portfolio-content {
+  position: absolute;
+  left: 30px;
+  right: 30px;
+  bottom: -110px;
+  z-index: 1;
+  color: #fff;
+  transition: all 0.5s ease;
+}
+.rs-portfolio-slider.slider-style-9 .grid-item .portfolio-item .portfolio-content .p-category {
+  margin-bottom: 5px;
+}
+.rs-portfolio-slider.slider-style-9 .grid-item .portfolio-item .portfolio-content .p-category a {
+  font-size: 14px;
+  font-weight: 500;
+  color: #1644c2;
+  background-color: #fff;
+  padding: 6px 12px;
+  border-radius: 40px;
+}
+.rs-portfolio-slider.slider-style-9 .grid-item .portfolio-item .portfolio-content .p-title a {
+  color: #fff;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 40px;
+}
+.rs-portfolio-slider.slider-style-9 .grid-item .portfolio-item .portfolio-content .description {
+  position: relative;
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.5s ease;
+  min-height: 110px;
+}
+.rs-portfolio-slider.slider-style-9 .grid-item .portfolio-item:hover .portfolio-content {
+  bottom: -15px;
+}
+.rs-portfolio-slider.slider-style-9 .grid-item .portfolio-item:hover .description {
+  visibility: visible;
+  opacity: 1;
+}
+.rs-portfolio-slider.slider-style-9 .grid-item .portfolio-item:hover .description:before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+  opacity: 0.3;
+  top: -22px;
+}
+.rs-portfolio-slider.slider-style-9 .grid-item .portfolio-item:hover .p-title {
+  padding-bottom: 15px;
+}
