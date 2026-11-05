@@ -10,10 +10,10 @@
 */
 @font-face {
   font-family: "remixicon";
-  src: url('/wp-content/themes/bcom/assets/fonts/remixicon.eot?t=1590207869815');
-  src: url('/wp-content/themes/bcom/assets/fonts/remixicon.eot?t=1590207869815#iefix') format('embedded-opentype'), /* IE6-IE8 */
-   url("/wp-content/themes/bcom/assets/fonts/remixicon.woff2?t=1590207869815") format("woff2"), url("/wp-content/themes/bcom/assets/fonts/remixicon.woff?t=1590207869815") format("woff"), url('/wp-content/themes/bcom/assets/fonts/remixicon.ttf?t=1590207869815') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-   url('/wp-content/themes/bcom/assets/fonts/remixicon.svg?t=1590207869815#remixicon') format('svg');
+  src: url('/ELITIQ/wp-content/themes/bcom/assets/fonts/remixicon.eot?t=1590207869815');
+  src: url('/ELITIQ/wp-content/themes/bcom/assets/fonts/remixicon.eot?t=1590207869815#iefix') format('embedded-opentype'), /* IE6-IE8 */
+   url("/ELITIQ/wp-content/themes/bcom/assets/fonts/remixicon.woff2?t=1590207869815") format("woff2"), url("/ELITIQ/wp-content/themes/bcom/assets/fonts/remixicon.woff?t=1590207869815") format("woff"), url('/ELITIQ/wp-content/themes/bcom/assets/fonts/remixicon.ttf?t=1590207869815') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+   url('/ELITIQ/wp-content/themes/bcom/assets/fonts/remixicon.svg?t=1590207869815#remixicon') format('svg');
   font-display: swap;/* IE9*/
   /* iOS 4.1- */
 }

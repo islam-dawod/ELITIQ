@@ -14,7 +14,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2023/11/share-image-elitiq.png]]>			</image:loc>
+				<![CDATA[/ELITIQ/wp-content/uploads/2023/11/share-image-elitiq.png]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
@@ -48,7 +48,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2023/10/7.jpg]]>			</image:loc>
+				<![CDATA[/ELITIQ/wp-content/uploads/2023/10/7.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -58,7 +58,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2023/10/6.jpg]]>			</image:loc>
+				<![CDATA[/ELITIQ/wp-content/uploads/2023/10/6.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -68,7 +68,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2023/10/5.jpg]]>			</image:loc>
+				<![CDATA[/ELITIQ/wp-content/uploads/2023/10/5.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -78,7 +78,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2023/10/4.jpg]]>			</image:loc>
+				<![CDATA[/ELITIQ/wp-content/uploads/2023/10/4.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -88,7 +88,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2023/10/3.jpg]]>			</image:loc>
+				<![CDATA[/ELITIQ/wp-content/uploads/2023/10/3.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -98,7 +98,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2023/10/2.jpg]]>			</image:loc>
+				<![CDATA[/ELITIQ/wp-content/uploads/2023/10/2.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -108,7 +108,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2023/10/post-8ta.png]]>			</image:loc>
+				<![CDATA[/ELITIQ/wp-content/uploads/2023/10/post-8ta.png]]>			</image:loc>
 		</image:image>
 	</url>
 </urlset>
