@@ -1,0 +1,9 @@
+{
+  // اسم الـ Worker — يجب أن يطابق اسم المشروع في Cloudflare
+  "name": "elitiq-com",
+  "compatibility_date": "2026-11-05",
+  // الموقع ثابت بالكامل؛ نُخبر wrangler أن ملفات الموقع في جذر المستودع
+  "assets": {
+    "directory": "./"
+  }
+}
