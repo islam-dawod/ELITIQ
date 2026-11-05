@@ -1227,7 +1227,7 @@ a.location {
 	404 Page
 -------------------------------------*/
 .page-error {
-        background-image: url(/ELITIQ/wp-content/uploads/2023/11/elitiq-cover-bgr.jpg);
+        background-image: url(/wp-content/uploads/2023/11/elitiq-cover-bgr.jpg);
 }
 .page-error .content-area h2 span {
      color: var(--e-global-color-c1bd781);  

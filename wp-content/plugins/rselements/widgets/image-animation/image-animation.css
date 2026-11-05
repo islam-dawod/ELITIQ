@@ -47,14 +47,14 @@
   background-size: 50% 132px !important;
   animation: move_wave 25s linear infinite;
   background-size: 50% 132px;
-  background-image: url(/ELITIQ/wp-content/plugins/rselements/widgets/image-animation/assets/images/shape/waveone.png);
+  background-image: url(/wp-content/plugins/rselements/widgets/image-animation/assets/images/shape/waveone.png);
 }
 .wave-wrap .wave-inner .wave.wavetwo {
   animation: move_wave 30s linear infinite;
   background-size: 50% 132px !important;
   animation: move_wave 30s linear infinite;
   background-size: 50% 132px;
-  background-image: url(/ELITIQ/wp-content/plugins/rselements/widgets/image-animation/assets/images/shape/wavetwo.png);
+  background-image: url(/wp-content/plugins/rselements/widgets/image-animation/assets/images/shape/wavetwo.png);
 }
 .wave-wrap .wave-inner.bgone {
   z-index: 2;
